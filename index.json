@@ -60,20 +60,56 @@
     ]
   },
   {
-    "name": "Tachiyomi: Susto Toons",
+    "name": "Tachiyomi: Sussy Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sussyscan",
-    "apk": "tachiyomi-pt.sustoscan-v1.4.61.apk",
+    "apk": "tachiyomi-pt.sussyscan-v1.4.62.apk",
     "lang": "pt-BR",
-    "code": 61,
-    "version": "1.4.61",
+    "code": 62,
+    "version": "1.4.62",
     "nsfw": 1,
     "sources": [
       {
-        "name": "Susto Toons",
+        "name": "Sussy Toons",
         "lang": "pt-BR",
         "id": "6963507464339951166",
         "baseUrl": "https://www.sussytoons.wtf",
         "versionId": 2
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Maid Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.maidscan",
+    "apk": "tachiyomi-pt.maidscan-v1.4.52.apk",
+    "lang": "pt-BR",
+    "code": 52,
+    "version": "1.4.52",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Maid Scan",
+        "lang": "pt-BR",
+        "id": "7624757094973334315",
+        "baseUrl": "https://empreguetes.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Mediocre Toons",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mediocretoons",
+    "apk": "tachiyomi-pt.mediocretoons-v1.4.6.apk",
+    "lang": "pt-BR",
+    "code": 6,
+    "version": "1.4.6",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Mediocre Toons",
+        "lang": "pt-BR",
+        "id": "6774658952974641159",
+        "baseUrl": "https://mediocretoons.site",
+        "versionId": 1
       }
     ]
   }
